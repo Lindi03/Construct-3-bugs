@@ -1,0 +1,39 @@
+Error report information
+Type: unhandled exception
+File: https://editor.construct.net/r241/components/editors/layoutView/layoutView.js, line 19, col 372
+Message: Error: unsupported event object
+Stack: nMc@https://editor.construct.net/r241/components/editors/layoutView/layoutView.js:19:344 Cod@https://editor.construct.net/r241/components/bars/tilemapBar/tilemapBar.js:85:115
+Construct 3 version: r241
+URL: https://editor.construct.net/
+Date: Sun Apr 11 2021 12:17:52 GMT+0200 (CEST)
+Uptime: 77.8 s
+
+Platform information
+Browser: Safari
+Browser version: 14.0.1
+Browser engine: WebKit
+Browser architecture: (unknown)
+Context: browser
+Operating system: Mac OS X
+Operating system version: 10.15_6
+Operating system architecture: (unknown)
+Device type: desktop
+Device pixel ratio: 2
+Logical CPU cores: (unavailable, defaulting to 2)
+Approx. device memory: (unavailable)
+User agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15
+C3 release: r241 (stable)
+Language setting: it-IT
+
+WebGL information
+Version string: WebGL 1.0
+Numeric version: 1
+Supports NPOT textures: partial
+Supports GPU profiling: no
+Supports highp precision: yes
+Vendor: Apple Inc.
+Renderer: Apple GPU
+Major performance caveat: no
+Maximum texture size: 16384
+Point size range: 1 to 64
+Extensions: EXT_blend_minmax, EXT_sRGB, EXT_frag_depth, OES_texture_float, OES_texture_float_linear, OES_texture_half_float, OES_texture_half_float_linear, OES_standard_derivatives, EXT_shader_texture_lod, EXT_texture_filter_anisotropic, OES_vertex_array_object, OES_element_index_uint, WEBGL_lose_context, WEBGL_compressed_texture_s3tc, WEBGL_depth_texture, WEBGL_draw_buffers, ANGLE_instanced_arrays, WEBGL_debug_shaders, WEBGL_debug_renderer_info, EXT_color_buffer_half_float, WEBGL_color_buffer_float
